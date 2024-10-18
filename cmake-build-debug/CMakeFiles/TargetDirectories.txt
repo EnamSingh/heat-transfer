@@ -1,0 +1,3 @@
+C:/Users/Enam/CLionProjects/P2PC/cmake-build-debug/CMakeFiles/P2PC.dir
+C:/Users/Enam/CLionProjects/P2PC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Enam/CLionProjects/P2PC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
